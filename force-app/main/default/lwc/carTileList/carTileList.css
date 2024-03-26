@@ -1,0 +1,12 @@
+c-car-tile{
+    min-width: 200 px;
+    flex: 1;
+}
+
+.content{
+    display: flex;
+    flex-wrap: wrap;
+}
+.wrapper{
+    background-color: grey;
+}
